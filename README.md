@@ -9,6 +9,6 @@
    ``` 
  
   1. Movie_Project
-      > SchemaDictionary.pdf
-      > entity_relationship.pdf
-      > entity_relationship_dictionary.pdf
+      1. SchemaDictionary.pdf
+      2. entity_relationship.pdf
+      3. entity_relationship_dictionary.pdf
