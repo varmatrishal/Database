@@ -6,7 +6,6 @@
   Book Directory contains:
     1. Abraham Silberschatz - Database System Concept
     2. Ramez Elmasri, Shamkant B. Navathe - Fundamental of Database System
-    }```
     
     
   1. Movie_Project
