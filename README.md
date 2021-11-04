@@ -12,6 +12,3 @@
       1. SchemaDictionary.pdf
       2. entity_relationship.pdf
       3. entity_relationship_dictionary.pdf
-
-  - [x] Add more infor
-  - [ ] dont do it
